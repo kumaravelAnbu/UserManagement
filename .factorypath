@@ -1,0 +1,8 @@
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.modisco.infra.discovery.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\dev\jar files\javax.servlet.jsp-api-2.3.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\dev\jar files\jstl-1.2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\dev\jar files\mysql-connector-java-8.0.22.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\dev\jar files\servletapi-2.3.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
